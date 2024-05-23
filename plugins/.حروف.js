@@ -3,7 +3,7 @@ conn.reply(m.chat,`*♚  مرحبا بك في قسم لعبة الحروف ♚*\
 
 『${pickRandom(global.kshisydsi)}』
 
-*\n*ꔹ━━━ꔹ❰ ﮼♪ﺑوﺕ|الصاعـ|ـقة⁞¹² ❱ꔹ━━━ꔹ*`, m)
+*\n*ꔹ━━━ꔹ❰ ﺑوت الجنرال١² ❱ꔹ━━━ꔹ*`, m)
 }
 handler.help = ['kshskshd']
 handler.tags = ['fun']
